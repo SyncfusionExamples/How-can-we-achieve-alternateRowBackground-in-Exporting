@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:syncfusion="clr-namespace:Syncfusion.Maui.DataGrid;assembly=Syncfusion.Maui.DataGrid"
+             xmlns:local="clr-namespace:DataGridSample"
+             x:Class="DataGridSample.MainPage">
+
+    <ContentPage.BindingContext>
+        <local:OrderInfoRepository/>
+    </ContentPage.BindingContext>
+
+    <StackLayout>
+        <syncfusion:SfDataGrid x:Name="dataGrid" VerticalOptions="FillAndExpand"
+                               ItemsSource="{Binding OrderInfoCollection}">
+
+        </syncfusion:SfDataGrid>
+        <Button Text="ExportToPDF" Clicked="Button_Clicked"> </Button>
+    </StackLayout>
+    
+
+</ContentPage>
