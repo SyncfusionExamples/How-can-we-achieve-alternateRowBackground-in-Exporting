@@ -36,7 +36,7 @@ The below code illustrates how to achieve alternateRowBackgroud in DataGrid Pdf 
         }
     }
 ```
- ![PdfExport.png](https://support.syncfusion.com/kb/agent/attachment/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjI3NDI0Iiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.V7Xbok1tK2nU00-zlzaP_dK8Q9DKcuv5dR8h-YA6T-Y)
+![PdfExport.png](https://support.syncfusion.com/kb/agent/attachment/article/16944/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjI3NjU1Iiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.htw6isuhAZmyAmb4M1d23JiPYhtq39-LvNDcV9T8icU)
 
 [View sample in GitHub](https://github.com/SyncfusionExamples/How-can-we-achieve-alternateRowBackground-in-Exporting)
 
